@@ -3,3 +3,5 @@
 !/sample/.gitkeep
 !/network/.gitkeep
 /.idea/
+*.model
+*.state
