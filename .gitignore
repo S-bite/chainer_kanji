@@ -5,3 +5,7 @@
 /.idea/
 *.model
 *.state
+/.git
+.Rhistory
+.python-version
+
